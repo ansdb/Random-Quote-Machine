@@ -2,3 +2,11 @@ body{
     background-color: #218c74;
     font-family: handlee;
 }
+h1{
+    text-align: center;
+    margin-top: 1em;
+    font-size: 2.5em;
+    color: #fff;
+    letter-spacing: .05em;
+    text-shadow: 0.1px 0.1px 2px #34495e;
+}
