@@ -30,3 +30,13 @@ button{
     font-size: 1.5em;
     color: #fff;
 }
+#quote-holder::before{
+    content: '"';
+    font-size: 1.8em;
+    color: #333;
+}
+#quote-holder::after{
+    content: '"';
+    font-size: 1.8em;
+    color: #333;
+}
