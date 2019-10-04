@@ -12,13 +12,13 @@ h1{
 }
 button{
     display: block;
-    width: 7.5em;
-    height: 3.25em;
+    width: 10em;
+    height: 4em;
     cursor: pointer;
     margin: 10% auto;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     border-radius: 0.5em;
     background-color: #218c74;
     font-family: monospace;
-    font-size: 1.8em;
+    font-size: 1.45em;
 }
