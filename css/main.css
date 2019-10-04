@@ -40,3 +40,8 @@ button{
     font-size: 1.8em;
     color: #333;
 }
+#owner{
+    direction: rtl;
+    color: #333;
+    font-size: 1.25em;
+}
