@@ -43,5 +43,7 @@ button{
 #owner{
     direction: rtl;
     color: #333;
-    font-size: 1.25em;
+    font-size: 2em;
+    padding: 1em 5.5em 0em 0em;
+    font-family: monospace;
 }
