@@ -22,3 +22,11 @@ button{
     font-family: monospace;
     font-size: 1.45em;
 }
+#quote-holder{
+    width: 100%;
+    height: auto;
+    border: 1px solid #fff;
+    font-family: handlee;
+    font-size: 1.5em;
+    color: #fff;
+}
