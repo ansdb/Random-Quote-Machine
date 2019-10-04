@@ -15,7 +15,7 @@ button{
     width: 10em;
     height: 4em;
     cursor: pointer;
-    margin: 10% auto;
+    margin: 10% auto 2em auto;
     border: 1px solid #fff;
     border-radius: 0.5em;
     background-color: #218c74;
@@ -25,10 +25,10 @@ button{
 #quote-holder{
     width: 100%;
     height: auto;
-    border: 1px solid #fff;
     font-family: handlee;
     font-size: 1.5em;
     color: #fff;
+    text-align: center;
 }
 #quote-holder::before{
     content: '"';
