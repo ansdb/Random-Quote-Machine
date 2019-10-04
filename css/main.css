@@ -10,3 +10,15 @@ h1{
     letter-spacing: .05em;
     text-shadow: 0.1px 0.1px 2px #34495e;
 }
+button{
+    display: block;
+    width: 7.5em;
+    height: 3.25em;
+    cursor: pointer;
+    margin: 10% auto;
+    border: 2px solid #fff;
+    border-radius: 0.5em;
+    background-color: #218c74;
+    font-family: monospace;
+    font-size: 1.8em;
+}
