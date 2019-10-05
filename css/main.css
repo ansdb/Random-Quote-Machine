@@ -19,8 +19,10 @@ button{
     border: 1px solid #fff;
     border-radius: 0.5em;
     background-color: #218c74;
+    color: #fff;
     font-family: monospace;
-    font-size: 1.45em;
+    font-size: 1.65em;
+    letter-spacing: 1.5px;
 }
 #quote-holder{
     width: 100%;
