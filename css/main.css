@@ -17,12 +17,13 @@ button{
     cursor: pointer;
     margin: 10% auto 2em auto;
     border: 1px solid #fff;
-    border-radius: 0.5em;
+    border-radius: 0.63em;
     background-color: #218c74;
     color: #fff;
     font-family: monospace;
     font-size: 1.65em;
     letter-spacing: 1.5px;
+    box-shadow: 0.2em 0.2em 0px #fff;
 }
 #quote-holder{
     width: 100%;
