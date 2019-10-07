@@ -43,6 +43,18 @@ const quotes = [
         "quote": "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.",
         "author": "William Arthur Ward"
     },
+    {
+        "quote": "Do. Or do not. There is no try.",
+        "author": "Yoda"
+    },
+    {
+        "quote": "Every champion was once a contender who refused to give up.",
+        "author": "Rocky Balboa"
+    },
+    {
+        "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
+        "author": "Nelson Mandela"
+    }
 ];
 
 function randomQuotesGenerator(){
