@@ -40,6 +40,10 @@ const quotes = [
         "author": "Maya Angelou"
     },
     {
+        "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+        "author": "Mahatma Gandhi"
+    },
+    {
         "quote": "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.",
         "author": "William Arthur Ward"
     },
