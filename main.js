@@ -39,6 +39,10 @@ const quotes = [
         "quote": "I believe that every person is born with talent.",
         "author": "Maya Angelou"
     },
+    {
+        "quote": "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.",
+        "author": "William Arthur Ward"
+    },
 ];
 
 function randomQuotesGenerator(){
