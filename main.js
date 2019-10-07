@@ -40,6 +40,10 @@ const quotes = [
         "quote": "I believe that every person is born with talent.",
         "author": "Maya Angelou"
     },
+    {
+        "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
+        "author": "Mahatma Gandhi"
+    },
 ];
 
 function randomQuotesGenerator(){
