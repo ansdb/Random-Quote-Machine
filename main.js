@@ -47,6 +47,9 @@ const quotes = [
         "quote": "Every champion was once a contender who refused to give up.",
         "author": "Rocky Balboa"
     },
+        "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
+        "author": "Nelson Mandela"
+    }
 ];
 
 function randomQuotesGenerator(){
