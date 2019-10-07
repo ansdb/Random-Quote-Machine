@@ -41,3 +41,7 @@ const quotes = [
         "author": "Maya Angelou"
     },
 ];
+
+function randomQuotesGenerator(){
+
+}
