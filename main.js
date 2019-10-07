@@ -43,5 +43,5 @@ const quotes = [
 ];
 
 function randomQuotesGenerator(){
-
+    let getRandomQuote = quotes[ Math.floor( Math.random()*quotes.length ) ];
 }
