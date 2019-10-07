@@ -39,6 +39,10 @@ const quotes = [
         "quote": "I believe that every person is born with talent.",
         "author": "Maya Angelou"
     },
+    {
+        "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
+        "author": "Nelson Mandela"
+    }
 ];
 
 function randomQuotesGenerator(){
