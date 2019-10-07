@@ -1,4 +1,3 @@
-/*https://youtu.be/wtV5ev6813I*/
 const quotes = [
     {
         "quote": "Ideas are the beginning points of all fortunes.",
