@@ -39,6 +39,14 @@ const quotes = [
         "quote": "I believe that every person is born with talent.",
         "author": "Maya Angelou"
     },
+    {
+        "quote": "Do. Or do not. There is no try.",
+        "author": "Yoda"
+    },
+    {
+        "quote": "Every champion was once a contender who refused to give up.",
+        "author": "Rocky Balboa"
+    },
 ];
 
 function randomQuotesGenerator(){
