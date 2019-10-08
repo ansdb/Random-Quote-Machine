@@ -56,7 +56,7 @@ const quotes = [
         "author": "Rocky Balboa"
     },
     {
-        "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
     },
     {
@@ -67,6 +67,15 @@ const quotes = [
         "quote":"Be yourself; everyone else is already taken.",
         "author": "Oscar Wilde"
     },
+    {
+        "quote": "If you can't explain it simply, you don't understand it well enough.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "People often say that motivation doesn't last. Well, neither does bathing--that's why we recommend it daily.",
+        "author": "Zig Ziglar"
+    },
+    {
         "quote":"It is not enough to do your best; you must know what to do, and then do your best.",
         "author": "W. Edwards Deming"
     },
