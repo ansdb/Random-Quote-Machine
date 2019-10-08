@@ -59,6 +59,10 @@ const quotes = [{
         "author": "Nelson Mandela"
     },
     {
+        "quote": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking.",
+        "author": "Steve Jobs"
+    },
+    {
         "quote":"Nothing is really work unless you would rather be doing something else.",
         "author": "J.M. Barrie"
     },
