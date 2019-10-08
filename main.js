@@ -58,6 +58,22 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote": "Sometimes enemies are our best teachers, people can learn from their mistakes, destruction sometimes means rebirth.",
+        "author": "Keanu Reeves"
+    },
+    {
+        "quote": "The simple act of paying attention can take you a long way.",
+        "author": "Keanu Reeves"
+    },
+    {
+        "quote": "Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger.",
+        "author": "Keanu Reeves"
+    },
+    {
+        "quote": "If you have been brutally broken but still have the courage to be gentle to other living beings, then you’re a badass with a heart of an angel.",
+        "author": "Keanu Reeves"
     }
     ,
     {
