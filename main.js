@@ -197,7 +197,12 @@ const quotes = [{
     {
         "quote": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
         "author": "Steve Jobs"
-    }
+    },
+    {
+        "quote": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+    },
+                
 ];
 
 function randomQuotesGenerator() {
