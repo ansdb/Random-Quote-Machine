@@ -59,6 +59,14 @@ const quotes = [{
         "author": "Nelson Mandela"
     },
     {
+        "quote":"Nothing is really work unless you would rather be doing something else.",
+        "author": "J.M. Barrie"
+    },
+    {
+        "quote":"Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
+        "author": "Stephen Covey"
+    },
+    {
         "quote":"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
         "author": "Steve Jobs"
     },
