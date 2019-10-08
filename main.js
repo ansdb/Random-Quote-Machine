@@ -60,6 +60,14 @@ const quotes = [
         "author": "Nelson Mandela"
     },
     {
+        "quote":"It is not enough to do your best; you must know what to do, and then do your best.",
+        "author": "W. Edwards Deming"
+    },
+    {
+        "quote":"Hard work beats talent when talent fails to work hard.",
+        "author": "Tim Notke"
+    },
+    {
         "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
         "author": "Oscar Wilde"
     },
