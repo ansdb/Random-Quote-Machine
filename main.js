@@ -58,6 +58,10 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote": "Be formless, shapeless, like water.",
+        "author": "Bruce Lee"
     }
 ];
 
