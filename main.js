@@ -58,7 +58,15 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
-    }
+    },
+    {
+        "quote": "Evil is always possible. And goodness is eternally difficult.",
+        "author": "Anne Rice"
+    },
+    {
+        "quote": "Whatever you are, be a good one.",
+        "author": "Abraham Lincoln"
+    },
 ];
 
 function randomQuotesGenerator(){
