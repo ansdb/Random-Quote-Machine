@@ -59,13 +59,30 @@ const quotes = [
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
     }
+    ,
+    {
+        "quote": "I wake up every morning believing today is going to be better than yesterday.",
+        "author": "Will Smith"
+    },
+    {
+        "quote": "The first step is you have to say that you can.",
+        "author": "Will Smith"
+    },
+    {
+        "quote": "Life isn’t how many breaths you take, but it’s the moments that take your breath away.",
+        "author": "Will Smith"
+    },
+    {
+        "quote": "Greatness is not this wonderful, esoteric, elusive, god-like feature that only the special among us will ever taste, it’s something that truly exists in all of us.",
+        "author": "Will Smith"
+    }
 ];
 
 function randomQuotesGenerator(){
     let getRandomQuote = quotes[ Math.floor( Math.random()*quotes.length ) ];
     let getQuoteElement = document.getElementById("quote-holder");
     let getOwnerElement = document.getElementById("owner");
-    
+
     getQuoteElement.innerHTML = getRandomQuote.quote;
     getOwnerElement.innerHTML = getRandomQuote.author;
 }
