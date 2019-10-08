@@ -106,6 +106,14 @@ const quotes = [
     {
         "quote": "Greatness is not this wonderful, esoteric, elusive, god-like feature that only the special among us will ever taste, it’s something that truly exists in all of us.",
         "author": "Will Smith"
+    },
+    {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+    },
+    {
+        "quote": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+        "author": "Steve Jobs"
     }
 ];
 
