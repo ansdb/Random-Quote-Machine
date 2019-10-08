@@ -60,6 +60,10 @@ const quotes = [
         "author": "Nelson Mandela"
     },
     {
+        "quote": "Be formless, shapeless, like water.",
+        "author": "Bruce Lee"
+    },
+    {
         "quote":"Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
         "author": "Bill Gates"
     },
