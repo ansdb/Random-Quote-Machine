@@ -58,7 +58,15 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
-    }
+    },
+    {
+        "quote":"It is not enough to do your best; you must know what to do, and then do your best.",
+        "author": "W. Edwards Deming"
+    },
+    {
+        "quote":"Hard work beats talent when talent fails to work hard.",
+        "author": "Tim Notke"
+    },
 ];
 
 function randomQuotesGenerator(){
