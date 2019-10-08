@@ -58,6 +58,14 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote":"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+        "author": "Khalil Gibran"
+    },
+    {
+        "quote":"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+        "author": "Harriet Tubman"
     }
 ];
 
@@ -65,7 +73,7 @@ function randomQuotesGenerator(){
     let getRandomQuote = quotes[ Math.floor( Math.random()*quotes.length ) ];
     let getQuoteElement = document.getElementById("quote-holder");
     let getOwnerElement = document.getElementById("owner");
-    
+
     getQuoteElement.innerHTML = getRandomQuote.quote;
     getOwnerElement.innerHTML = getRandomQuote.author;
 }
