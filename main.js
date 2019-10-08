@@ -59,6 +59,10 @@ const quotes = [
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
     },
+    {   
+        "quote":"The imagination is truly the enemy of bigotry and dogma.",
+        "author": "Ursula K. Le Guin"
+    },
     {
         "quote": "Sometimes enemies are our best teachers, people can learn from their mistakes, destruction sometimes means rebirth.",
         "author": "Keanu Reeves"
@@ -74,8 +78,7 @@ const quotes = [
     {
         "quote": "If you have been brutally broken but still have the courage to be gentle to other living beings, then you’re a badass with a heart of an angel.",
         "author": "Keanu Reeves"
-    }
-    ,
+    },
     {
         "quote": "I wake up every morning believing today is going to be better than yesterday.",
         "author": "Will Smith"
