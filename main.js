@@ -60,6 +60,14 @@ const quotes = [
         "author": "Nelson Mandela"
     },
     {
+        "quote": "As long as you're learning, you're not failing.",
+        "author": "Bob Ross"
+    },
+    {
+        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill"
+    },
+    {
         "quote": "Be formless, shapeless, like water.",
         "author": "Bruce Lee"
     },
