@@ -60,6 +60,10 @@ const quotes = [
         "author": "Nelson Mandela"
     },
     {
+        "quote": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+        "author": "Winston Churchill"
+    },
+    {
         "quote": "As long as you're learning, you're not failing.",
         "author": "Bob Ross"
     },
