@@ -59,6 +59,14 @@ const quotes = [{
         "author": "Nelson Mandela"
     },
     {
+        "quote": "Evil is always possible. And goodness is eternally difficult.",
+        "author": "Anne Rice"
+    },
+    {
+        "quote": "Whatever you are, be a good one.",
+        "author": "Abraham Lincoln"
+    },
+    {
         "quote": "You are braver than you believe, stronger than you seem and smarter than you think.",
         "author": "Christopher Robin Milne",
     },
