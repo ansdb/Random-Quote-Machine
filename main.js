@@ -58,6 +58,14 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote": "As long as you're learning, you're not failing.",
+        "author": "Bob Ross"
+    },
+    {
+        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill"
     }
 ];
 
@@ -65,7 +73,7 @@ function randomQuotesGenerator(){
     let getRandomQuote = quotes[ Math.floor( Math.random()*quotes.length ) ];
     let getQuoteElement = document.getElementById("quote-holder");
     let getOwnerElement = document.getElementById("owner");
-    
+
     getQuoteElement.innerHTML = getRandomQuote.quote;
     getOwnerElement.innerHTML = getRandomQuote.author;
 }
