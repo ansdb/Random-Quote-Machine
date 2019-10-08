@@ -60,6 +60,14 @@ const quotes = [
         "author": "Nelson Mandela"
     },
     {
+        "quote":"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+        "author": "Khalil Gibran"
+    },
+    {
+        "quote":"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+        "author": "Harriet Tubman"
+    },
+    {
         "quote": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
         "author": "Winston Churchill"
     },
