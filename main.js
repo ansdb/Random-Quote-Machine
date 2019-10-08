@@ -202,7 +202,10 @@ const quotes = [{
         "quote": "You miss 100% of the shots you don't take.",
         "author": "Wayne Gretzky"
     },
-                
+    {
+        "quote": "Maybe life is random, but I doubt it.",
+        "author": "Steven Tyler"
+    },
 ];
 
 function randomQuotesGenerator() {
