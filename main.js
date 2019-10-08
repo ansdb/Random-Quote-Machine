@@ -60,6 +60,14 @@ const quotes = [
         "author": "Nelson Mandela"
     },
     {
+        "quote":"Attitude is a little thing that makes a big difference.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote":"True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information.",
+        "author": "Winston Churchill"
+    },
+    {
         "quote":"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
         "author": "Khalil Gibran"
     },
