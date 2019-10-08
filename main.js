@@ -1,5 +1,4 @@
-const quotes = [
-    {
+const quotes = [{
         "quote": "Ideas are the beginning points of all fortunes.",
         "author": "Napoleon Hill",
     },
@@ -56,16 +55,24 @@ const quotes = [
         "author": "Rocky Balboa"
     },
     {
-        "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
-    }
+    },
+    {
+        "quote": "You are braver than you believe, stronger than you seem and smarter than you think.",
+        "author": "Christopher Robin Milne",
+    },
+    {
+        "quote": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.",
+        "author": "Bruce Lee",
+    },
 ];
 
-function randomQuotesGenerator(){
-    let getRandomQuote = quotes[ Math.floor( Math.random()*quotes.length ) ];
+function randomQuotesGenerator() {
+    let getRandomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     let getQuoteElement = document.getElementById("quote-holder");
     let getOwnerElement = document.getElementById("owner");
-    
+
     getQuoteElement.innerHTML = getRandomQuote.quote;
     getOwnerElement.innerHTML = getRandomQuote.author;
 }
