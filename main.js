@@ -58,14 +58,22 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
-    }
+    },
+    {
+        "quote":"Attitude is a little thing that makes a big difference.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote":"True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information.",
+        "author": "Winston Churchill"
+    },
 ];
 
 function randomQuotesGenerator(){
     let getRandomQuote = quotes[ Math.floor( Math.random()*quotes.length ) ];
     let getQuoteElement = document.getElementById("quote-holder");
     let getOwnerElement = document.getElementById("owner");
-    
+
     getQuoteElement.innerHTML = getRandomQuote.quote;
     getOwnerElement.innerHTML = getRandomQuote.author;
 }
