@@ -58,7 +58,15 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
-    }
+    },
+    {
+        "quote":"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote":"You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
+        "author": "Woodrow Wilson"
+    },
 ];
 
 function randomQuotesGenerator(){
