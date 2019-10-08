@@ -60,6 +60,14 @@ const quotes = [
         "author": "Nelson Mandela"
     },
     {
+        "quote":"Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote":"Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
+    {
         "quote": "If you can't explain it simply, you don't understand it well enough.",
         "author": "Albert Einstein"
     },
