@@ -10,7 +10,7 @@
 - Add maximum 2 quotes in the following format
 - **Commit** your changes to your **branch**
 - **Push** them into the same **branch**
-- Open a **pull request** and I will approve it if there is no issue
+- Open a **pull request** and I will approve it if there are no issues
 
 **NB: Revise your changes before submitting the pull request**.
 
@@ -21,19 +21,17 @@
 },
 `
 
-- don't forget to add **comma** -> , to the end of each quote you've added after **}**, _just in case the quote isn't the final one in the list_.
+- Don't forget to add **comma** -> , to the end of each quote you've added after **}**, _just in case the quote isn't the final one in the list_.
 
-here is a guide containing all the steps above with the _commands_ you need from zero to opening your first **pull** request.
-
-[Click here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
+[Here is a guide](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) containing all the steps above with the _commands_ you need from zero to opening your first **pull** request.
 
 ## Enhancements contribution.
 
 - Add **comment** to the changes you've made if it's necessary
 - Add meaningful **commits**
 
-**Don't forget to fork-clone-create new branch then add your changes and commit them push them into your branch and open a pull request**
+**Don't forget to fork-clone-create new branch then add your changes and commit them push them into your branch and open a pull request.**
 
-Happy contribution
+Happy contributing!
 
 Thanks in advance.
