@@ -58,6 +58,14 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote":"Nothing is really work unless you would rather be doing something else.",
+        "author": "J.M. Barrie"
+    },
+    {
+        "quote":"Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
+        "author": "Stephen Covey"
     }
 ];
 
