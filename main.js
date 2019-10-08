@@ -58,6 +58,10 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote":"The imagination is truly the enemy of bigotry and dogma.",
+        "author": "Ursula K. Le Guin"
     }
 ];
 
