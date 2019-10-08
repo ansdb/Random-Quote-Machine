@@ -58,7 +58,15 @@ const quotes = [
     {
         "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
-    }
+    },
+    {
+        "quote":"Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote":"Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
 ];
 
 function randomQuotesGenerator(){
