@@ -206,6 +206,14 @@ const quotes = [{
         "quote": "Maybe life is random, but I doubt it.",
         "author": "Steven Tyler"
     },
+    {
+        "quote": "Arise,awake and do not stop until the goal is reached.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "quote": "No real change in history has ever been achieved by discussions.",
+        "author": "Subhash Chandra Bose"
+    }
 ];
 
 function randomQuotesGenerator() {
