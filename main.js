@@ -56,18 +56,173 @@ const quotes = [
         "author": "Rocky Balboa"
     },
     {
-        "quote":"The greatest glory in living lies not in never falling, but in rising every time we fall",
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
     },
     {
         "quote": "Everyone you will ever meet knows something you don't.",
         "author": "Bill Nye"
-
+    },
+    {
+        "quote": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote":"Nothing is really work unless you would rather be doing something else.",
+        "author": "J.M. Barrie"
+    },
+    {
+        "quote":"Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
+        "author": "Stephen Covey"
+    },
+    {
+        "quote":"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote":"You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
+        "author": "Woodrow Wilson"
+    },
+    {
+        "quote": "Evil is always possible. And goodness is eternally difficult.",
+        "author": "Anne Rice"
+    },
+    {
+        "quote": "Whatever you are, be a good one.",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "quote": "You are braver than you believe, stronger than you seem and smarter than you think.",
+        "author": "Christopher Robin Milne",
+    },
+    {
+        "quote": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.",
+        "author": "Bruce Lee",
+    },
+    {
+        "quote":"Attitude is a little thing that makes a big difference.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote":"True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote":"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+        "author": "Khalil Gibran"
+    },
+    {
+        "quote":"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+        "author": "Harriet Tubman"
+    },
+    {
+        "quote": "You have enemies? Good. That means you've stood up for something, sometime in your life.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "As long as you're learning, you're not failing.",
+        "author": "Bob Ross"
+    },
+    {
+        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill"
+    },
+    {
+        "quote": "Be formless, shapeless, like water.",
+        "author": "Bruce Lee"
+    },
+    {
+        "quote":"Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote":"Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "If you can't explain it simply, you don't understand it well enough.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "People often say that motivation doesn't last. Well, neither does bathing--that's why we recommend it daily.",
+        "author": "Zig Ziglar"
+    },
+    {
+        "quote":"It is not enough to do your best; you must know what to do, and then do your best.",
+        "author": "W. Edwards Deming"
+    },
+    {
+        "quote":"Hard work beats talent when talent fails to work hard.",
+        "author": "Tim Notke"
+    },
+    {
+        "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+        "author": "Oscar Wilde"
+    },
+    {   
+        "quote":"The imagination is truly the enemy of bigotry and dogma.",
+        "author": "Ursula K. Le Guin"
+    },
+    {
+        "quote": "Sometimes enemies are our best teachers, people can learn from their mistakes, destruction sometimes means rebirth.",
+        "author": "Keanu Reeves"
+    },
+    {
+        "quote": "The simple act of paying attention can take you a long way.",
+        "author": "Keanu Reeves"
+    },
+    {
+        "quote": "Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger.",
+        "author": "Keanu Reeves"
+    },
+    {
+        "quote": "If you have been brutally broken but still have the courage to be gentle to other living beings, then you’re a badass with a heart of an angel.",
+        "author": "Keanu Reeves"
+    },
+    {
+        "quote": "I wake up every morning believing today is going to be better than yesterday.",
+        "author": "Will Smith"
+    },
+    {
+        "quote": "The first step is you have to say that you can.",
+        "author": "Will Smith"
+    },
+    {
+        "quote": "Life isn’t how many breaths you take, but it’s the moments that take your breath away.",
+        "author": "Will Smith"
+    },
+    {
+        "quote": "Greatness is not this wonderful, esoteric, elusive, god-like feature that only the special among us will ever taste, it’s something that truly exists in all of us.",
+        "author": "Will Smith"
+    },
+    {
+        "quote": "The way to get started is to quit talking and begin doing.",
+        "author": "Walt Disney"
+    },
+    {
+        "quote": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+        "author": "Steve Jobs"
+    },
+    {
+        "quote": "You miss 100% of the shots you don't take.",
+        "author": "Wayne Gretzky"
+    },
+    {
+        "quote": "Maybe life is random, but I doubt it.",
+        "author": "Steven Tyler"
+    },
+    {
+        "quote": "Arise,awake and do not stop until the goal is reached.",
+        "author": "Swami Vivekananda"
+    },
+    {
+        "quote": "No real change in history has ever been achieved by discussions.",
+        "author": "Subhash Chandra Bose"
     }
 ];
 
-function randomQuotesGenerator(){
-    let getRandomQuote = quotes[ Math.floor( Math.random()*quotes.length ) ];
+function randomQuotesGenerator() {
+    let getRandomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     let getQuoteElement = document.getElementById("quote-holder");
     let getOwnerElement = document.getElementById("owner");
 
