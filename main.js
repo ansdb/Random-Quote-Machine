@@ -1,4 +1,5 @@
-const quotes = [{
+const quotes = [
+    {
         "quote": "Ideas are the beginning points of all fortunes.",
         "author": "Napoleon Hill",
     },
@@ -57,6 +58,10 @@ const quotes = [{
     {
         "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
+    },
+    {
+        "quote": "Everyone you will ever meet knows something you don't.",
+        "author": "Bill Nye"
     },
     {
         "quote": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking.",
