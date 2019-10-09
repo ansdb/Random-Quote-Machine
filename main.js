@@ -218,6 +218,10 @@ const quotes = [
     {
         "quote": "No real change in history has ever been achieved by discussions.",
         "author": "Subhash Chandra Bose"
+    },
+    {
+        "quote": "So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers.",
+        "author": "Jorge Luis Borges"
     }
 ];
 
