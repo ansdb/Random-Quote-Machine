@@ -240,6 +240,10 @@ const quotes = [
       "author": "Malcolm Gladwell"
     },
     {
+      "quote": "Celebrate who you are in your deepest heart. Love yourself and the world will love you.",
+      "author": "Amy Leigh Mercree"
+    },
+    {
       "quote": "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep.",
       "author": "Dale Carnegie"
     }
