@@ -240,6 +240,14 @@ const quotes = [
       "author": "Malcolm Gladwell"
     },
     {
+        "quote": "I have no special talent. I am only passionately curious.",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote" : "God helps those that help themselves.",
+        "author" : "Benjamin Franklin"
+    },
+    {
       "quote": "Celebrate who you are in your deepest heart. Love yourself and the world will love you.",
       "author": "Amy Leigh Mercree"
     },
