@@ -1,5 +1,9 @@
 const quotes = [
     {
+        "quote": "I like bread, pate, sausage more than speed limits.",
+        "author": "Jacques Chirac",
+    },
+    {
         "quote": "Ideas are the beginning points of all fortunes.",
         "author": "Napoleon Hill",
     },
@@ -68,19 +72,19 @@ const quotes = [
         "author": "Steve Jobs"
     },
     {
-        "quote":"Nothing is really work unless you would rather be doing something else.",
+        "quote": "Nothing is really work unless you would rather be doing something else.",
         "author": "J.M. Barrie"
     },
     {
-        "quote":"Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
+        "quote": "Be patient with yourself. Self-growth is tender; it's holy ground. There's no greater investment.",
         "author": "Stephen Covey"
     },
     {
-        "quote":"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+        "quote": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
         "author": "Steve Jobs"
     },
     {
-        "quote":"You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
+        "quote": "You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand.",
         "author": "Woodrow Wilson"
     },
     {
@@ -100,19 +104,19 @@ const quotes = [
         "author": "Bruce Lee",
     },
     {
-        "quote":"Attitude is a little thing that makes a big difference.",
+        "quote": "Attitude is a little thing that makes a big difference.",
         "author": "Winston Churchill"
     },
     {
-        "quote":"True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information.",
+        "quote": "True genius resides in the capacity for evaluation of uncertain, hazardous, and conflicting information.",
         "author": "Winston Churchill"
     },
     {
-        "quote":"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+        "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
         "author": "Khalil Gibran"
     },
     {
-        "quote":"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+        "quote": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
         "author": "Harriet Tubman"
     },
     {
@@ -132,11 +136,11 @@ const quotes = [
         "author": "Bruce Lee"
     },
     {
-        "quote":"Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+        "quote": "Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
         "author": "Bill Gates"
     },
     {
-        "quote":"Be yourself; everyone else is already taken.",
+        "quote": "Be yourself; everyone else is already taken.",
         "author": "Oscar Wilde"
     },
     {
@@ -148,19 +152,19 @@ const quotes = [
         "author": "Zig Ziglar"
     },
     {
-        "quote":"It is not enough to do your best; you must know what to do, and then do your best.",
+        "quote": "It is not enough to do your best; you must know what to do, and then do your best.",
         "author": "W. Edwards Deming"
     },
     {
-        "quote":"Hard work beats talent when talent fails to work hard.",
+        "quote": "Hard work beats talent when talent fails to work hard.",
         "author": "Tim Notke"
     },
     {
         "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
         "author": "Oscar Wilde"
     },
-    {   
-        "quote":"The imagination is truly the enemy of bigotry and dogma.",
+    {
+        "quote": "The imagination is truly the enemy of bigotry and dogma.",
         "author": "Ursula K. Le Guin"
     },
     {
@@ -224,6 +228,14 @@ const quotes = [
         "author": "Jorge Luis Borges"
     },
     {
+        "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
+        "author": "Malcolm Gladwell"
+    },
+    {
+        "quote": "Together we can change the world, just one random act of kindness at a time.",
+        "author": "Ron Hall"
+    },
+    {
       "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
       "author": "Malcolm Gladwell"
     },
@@ -234,6 +246,14 @@ const quotes = [
     {
         "quote" : "God helps those that help themselves.",
         "author" : "Benjamin Franklin"
+    },
+    {
+      "quote": "Celebrate who you are in your deepest heart. Love yourself and the world will love you.",
+      "author": "Amy Leigh Mercree"
+    },
+    {
+      "quote": "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep.",
+      "author": "Dale Carnegie"
     }
 ];
 
