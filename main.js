@@ -222,6 +222,10 @@ const quotes = [
     {
         "quote": "So plant your own gardens and decorate your own soul, instead of waiting for someone to bring you flowers.",
         "author": "Jorge Luis Borges"
+    },
+    {
+      "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
+      "author": "Malcolm Gladwell"
     }
 ];
 
