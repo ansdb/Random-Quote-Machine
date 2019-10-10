@@ -1,5 +1,9 @@
 const quotes = [
     {
+        "quote": "I like bread, pate, sausage more than speed limits.",
+        "author": "Jacques Chirac",
+    },
+    {
         "quote": "Ideas are the beginning points of all fortunes.",
         "author": "Napoleon Hill",
     },
