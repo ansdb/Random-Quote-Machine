@@ -226,6 +226,10 @@ const quotes = [
     {
       "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
       "author": "Malcolm Gladwell"
+    },
+    {
+      "quote": "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep.",
+      "author": "Dale Carnegie"
     }
 ];
 
