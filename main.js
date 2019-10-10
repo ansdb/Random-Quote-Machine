@@ -231,6 +231,10 @@ const quotes = [
         "quote": "I have no special talent. I am only passionately curious.",
         "author": "Albert Einstein"
     },
+    {
+        "quote" : "God helps those that help themselves.",
+        "author" : "Benjamin Franklin"
+    }
 ];
 
 function randomQuotesGenerator() {
