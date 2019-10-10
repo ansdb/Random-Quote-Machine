@@ -226,7 +226,11 @@ const quotes = [
     {
       "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
       "author": "Malcolm Gladwell"
-    }
+    },
+    {
+        "quote": "I have no special talent. I am only passionately curious.",
+        "author": "Albert Einstein"
+    },
 ];
 
 function randomQuotesGenerator() {
