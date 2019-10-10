@@ -226,6 +226,10 @@ const quotes = [
     {
       "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
       "author": "Malcolm Gladwell"
+    },
+    {
+      "quote": "Celebrate who you are in your deepest heart. Love yourself and the world will love you.",
+      "author": "Amy Leigh Mercree"
     }
 ];
 
