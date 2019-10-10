@@ -1,5 +1,9 @@
 const quotes = [
     {
+        "quote": "I like bread, pate, sausage more than speed limits.",
+        "author": "Jacques Chirac",
+    },
+    {
         "quote": "Ideas are the beginning points of all fortunes.",
         "author": "Napoleon Hill",
     },
@@ -230,6 +234,14 @@ const quotes = [
     {
         "quote": "Together we can change the world, just one random act of kindness at a time.",
         "author": "Ron Hall"
+    },
+    {
+      "quote": "Practice isn't the thing you do once you're good. It's the thing you do that makes you good.",
+      "author": "Malcolm Gladwell"
+    },
+    {
+      "quote": "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep.",
+      "author": "Dale Carnegie"
     }
 ];
 
