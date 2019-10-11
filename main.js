@@ -259,6 +259,14 @@ const quotes = [
       "quote": "Make your life a masterpiece, imagine no limitations on what you can be, have or do",
       "author": "Brian Tracy"
     },
+    {
+        "quote": "Struggle and criticisms are prerequisites for greatness. That is the law of this universe and no one escapes it. Because pain is life but you can choose what type? Either the pain on the road to success or the pain of being haunted with regret.",
+        "author": "Prince Ea"
+    },
+    {
+        "quote": "Life beings where fear ends.",
+        "author": "Osho"
+    }
 ];
 
 function randomQuotesGenerator() {
