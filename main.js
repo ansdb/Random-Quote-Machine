@@ -254,7 +254,11 @@ const quotes = [
     {
       "quote": "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep.",
       "author": "Dale Carnegie"
-    }
+    },
+    {
+      "quote": "Make your life a masterpiece, imagine no limitations on what you can be, have or do",
+      "author": "Brian Tracy"
+    },
 ];
 
 function randomQuotesGenerator() {
