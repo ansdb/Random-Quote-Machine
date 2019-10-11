@@ -254,6 +254,14 @@ const quotes = [
     {
       "quote": "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep.",
       "author": "Dale Carnegie"
+    },
+    {
+        "quote": "Struggle and criticisms are prerequisites for greatness. That is the law of this universe and no one escapes it. Because pain is life but you can choose what type? Either the pain on the road to success or the pain of being haunted with regret.",
+        "author": "Prince Ea"
+    },
+    {
+        "quote": "Life beings where fear ends.",
+        "author": "Osho"
     }
 ];
 
