@@ -1,4 +1,4 @@
-const quotes = [
+﻿const quotes = [
     {
         "quote": "I like bread, pate, sausage more than speed limits.",
         "author": "Jacques Chirac",
@@ -278,6 +278,14 @@ const quotes = [
     {
         "quote": "Knowing what must be done does away with fear.",
         "author": "Rosa Parks"
+    },
+    {
+        "quote": "What Doesn’t Kill You Makes You Stronger.",
+        "author": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "And if you gaze long enough into an abyss, the abyss will gaze back into you.",
+        "author": "Friedrich Nietzsche"
     }
 ];
 
