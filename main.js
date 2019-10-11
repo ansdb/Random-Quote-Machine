@@ -256,6 +256,10 @@ const quotes = [
       "author": "Dale Carnegie"
     },
     {
+        "quote": "Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
+        "author": "Albert Einstein"
+    },
+    {
       "quote": "Make your life a masterpiece, imagine no limitations on what you can be, have or do",
       "author": "Brian Tracy"
     },
