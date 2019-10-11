@@ -270,6 +270,14 @@ const quotes = [
     {
         "quote": "Life beings where fear ends.",
         "author": "Osho"
+    },
+	{
+        "quote": "Optimism is the faith that leads to achievement.",
+        "author": "Helen Keller"
+    },
+    {
+        "quote": "Knowing what must be done does away with fear.",
+        "author": "Rosa Parks"
     }
 ];
 
