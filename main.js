@@ -254,6 +254,10 @@ const quotes = [
     {
       "quote": "If you can't sleep, then get up and do something instead of lying there and worrying. It's the worry that gets you, not the loss of sleep.",
       "author": "Dale Carnegie"
+    },
+    {
+        "quote": "Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
+        "author": "Albert Einstein"
     }
 ];
 
