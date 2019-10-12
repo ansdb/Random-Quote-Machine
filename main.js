@@ -286,6 +286,10 @@
     {
         "quote": "And if you gaze long enough into an abyss, the abyss will gaze back into you.",
         "author": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "Better to die on one's feet than live on one's knees.",
+        "author": "Dolores Ibárruri (La Pasionaria)"
     }
 ];
 
