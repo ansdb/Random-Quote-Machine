@@ -290,6 +290,10 @@
     {
         "quote": "Better to die on one's feet than live on one's knees.",
         "author": "Dolores Ibárruri (La Pasionaria)"
+    },
+    {
+        "quote": "Hell is empty and all the devils are here.",
+        "author": "William Shakespeare"
     }
 ];
 
