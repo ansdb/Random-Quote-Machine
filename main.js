@@ -294,6 +294,10 @@
     {
         "quote": "Hell is empty and all the devils are here.",
         "author": "William Shakespeare"
+    },
+    {
+	"quote": "Nobody cares how much you know, until they know how much you care.",
+	"author": "Theodore Roosevelt"	    
     }
 ];
 
