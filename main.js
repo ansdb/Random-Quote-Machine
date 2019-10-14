@@ -292,6 +292,14 @@
         "author": "Dolores Ibárruri (La Pasionaria)"
     },
     {
+        "quote": "Fear cuts deeper than swords.",
+        "author": "George R.R. Martin(A Game of Thrones)"
+    },
+    {
+        "quote": "Give me honorable enemies rather than ambitious ones, and I'll sleep more easily by night.",
+        "author": "George R.R. Martin(A Game of Thrones)"
+    },
+    {
         "quote": "Hell is empty and all the devils are here.",
         "author": "William Shakespeare"
     }
