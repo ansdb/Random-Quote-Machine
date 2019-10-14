@@ -295,6 +295,10 @@
         "quote": "Hell is empty and all the devils are here.",
         "author": "William Shakespeare"
     }
+    {
+        "quote": "Life's A Garden, Dig It!",
+        "author": "Joe Dirt"
+    }
 ];
 
 function randomQuotesGenerator() {
