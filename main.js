@@ -297,7 +297,7 @@
     },
     {
         "quote": "Lifes A Garden, Dig It!",
-	"author": "Joe Dirt"
+        "author": "Joe Dirt"
     }
 ];
 
