@@ -296,9 +296,9 @@
         "author": "William Shakespeare"
     },
     {
-	"quote": "Nobody cares how much you know, until they know how much you care.",
-	"author": "Theodore Roosevelt"	    
-    }
+        "quote": "Nobody cares how much you know, until they know how much you care.",
+        "author": "Theodore Roosevelt"	    
+    },
 ];
 
 function randomQuotesGenerator() {
