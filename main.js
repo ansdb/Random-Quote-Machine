@@ -294,6 +294,10 @@
     {
         "quote": "Hell is empty and all the devils are here.",
         "author": "William Shakespeare"
+    },
+    {
+        "quote": "Lifes A Garden, Dig It!",
+	"author": "Joe Dirt"
     }
 ];
 
