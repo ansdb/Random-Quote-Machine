@@ -294,7 +294,11 @@
     {
         "quote": "Hell is empty and all the devils are here.",
         "author": "William Shakespeare"
-    }
+    },
+    {
+        "quote": "Somebody may beat me, but they are going to have to bleed to do it.",
+        "author": "Steve Prefontaine"
+    },
 ];
 
 function randomQuotesGenerator() {
