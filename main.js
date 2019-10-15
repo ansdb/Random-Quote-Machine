@@ -319,6 +319,10 @@
         "quote": "Love is too young to know what conscience is.",
         "author": "William Shakespeare"
     },
+    {
+        "quote": "Where the spirit does not work with the hand, there is no art.",
+        "author": "Leonardo Da Vinci"
+    }
 
 ];
 
