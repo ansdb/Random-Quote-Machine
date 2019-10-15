@@ -296,6 +296,10 @@
         "author": "William Shakespeare"
     },
     {
+        "quote": "Life's A Garden, Dig It!",
+        "author": "Joe Dirt"
+    },
+    {
         "quote": "Nobody cares how much you know, until they know how much you care.",
         "author": "Theodore Roosevelt"	    
     },
