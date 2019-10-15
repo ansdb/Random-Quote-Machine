@@ -315,6 +315,14 @@
         "quote": "Somebody may beat me, but they are going to have to bleed to do it.",
         "author": "Steve Prefontaine"
     },
+    {
+        "quote": "Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Be the change that you wish to see in the world",
+        "author": "Mahatma Gandhi"
+    }
 ];
 
 function randomQuotesGenerator() {
