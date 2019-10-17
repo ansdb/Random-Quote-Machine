@@ -326,6 +326,10 @@
     {
         "quote": "Somebody may beat me, but they are going to have to bleed to do it.",
         "author": "Steve Prefontaine"
+    },
+    {
+        "quote": "Are you not entertained?",
+        "author": "Maximus, Gladiator"
     }
 
 ];
