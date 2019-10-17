@@ -323,6 +323,10 @@
         "quote": "Where the spirit does not work with the hand, there is no art.",
         "author": "Leonardo Da Vinci"
     }
+    {
+        "quote": "Fall seven times, stand up eight.",
+        "author": "Japanese proverb"
+    }
 
 ];
 
