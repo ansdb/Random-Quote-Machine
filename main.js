@@ -322,6 +322,10 @@
     {
         "quote": "Where the spirit does not work with the hand, there is no art.",
         "author": "Leonardo Da Vinci"
+    },
+    {
+        "quote": "Somebody may beat me, but they are going to have to bleed to do it.",
+        "author": "Steve Prefontaine"
     }
 
 ];
