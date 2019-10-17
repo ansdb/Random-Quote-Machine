@@ -322,6 +322,10 @@
     {
         "quote": "Where the spirit does not work with the hand, there is no art.",
         "author": "Leonardo Da Vinci"
+    },
+    {
+        "quote": "Are you not entertained?",
+        "author": "Maximus, Gladiator"
     }
 
 ];
