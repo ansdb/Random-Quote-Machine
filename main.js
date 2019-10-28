@@ -324,6 +324,15 @@
         "author": "Steve Prefontaine"
     },
     {
+        "quote": "Be yourself; everyone else is already taken.",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Be the change that you wish to see in the world",
+        "author": "Mahatma Gandhi"
+    },
+    },
+    {
         "quote": "Love is too young to know what conscience is.",
         "author": "William Shakespeare"
     },
