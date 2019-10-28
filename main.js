@@ -1,5 +1,13 @@
 ﻿const quotes = [
     {
+      "quote": "Sometimes good things fall apart so better things can fall together.",
+      "author": "Marilyn Monroe",  
+    },
+    {
+        "quote": "Courage is more exhilarating than fear.",
+        "author": "Eleanor Roosevelt",
+    },
+    {
         "quote": "I like bread, pate, sausage more than speed limits.",
         "author": "Jacques Chirac",
     },
